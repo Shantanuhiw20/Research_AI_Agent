@@ -24,7 +24,6 @@ AI-powered chatbot that researches and validates startup ideas using real-time m
 
 ```bash
 # Clone and enter the directory
-cd Week_3
 
 # Create virtual environment
 python -m venv .venv
